@@ -4176,6 +4176,10 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating,
 /area/station/maintenance/port/aft)
+"bvS" = (
+/obj/machinery/vending/boozeomat,
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "bwc" = (
 /obj/structure/cable,
 /obj/machinery/atmospherics/pipe/smart/simple/dark/visible,
@@ -6816,6 +6820,12 @@
 /obj/effect/mapping_helpers/burnt_floor,
 /turf/open/floor/plating,
 /area/station/maintenance/starboard/fore)
+"coa" = (
+/obj/structure/chair/sofa/right/brown{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "cog" = (
 /obj/structure/flora/grass/jungle/b/style_random,
 /obj/effect/turf_decal/sand/plating,
@@ -13802,6 +13812,12 @@
 /obj/effect/mapping_helpers/airlock/access/all/security/brig,
 /turf/open/floor/iron/dark,
 /area/station/security/execution/transfer)
+"eIL" = (
+/obj/structure/chair/sofa/middle/brown{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "eIP" = (
 /obj/machinery/computer/security/telescreen{
 	desc = "Used for watching the ai_upload.";
@@ -14934,6 +14950,14 @@
 /obj/effect/turf_decal/tile/neutral/half/contrasted,
 /turf/open/floor/iron/dark,
 /area/station/command/bridge)
+"feC" = (
+/obj/machinery/door/airlock/external/glass,
+/obj/effect/mapping_helpers/airlock/cyclelink_helper{
+	dir = 1
+	},
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "feD" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/effect/landmark/start/station_engineer,
@@ -15643,6 +15667,11 @@
 /obj/item/food/grown/poppy/geranium,
 /turf/open/floor/iron/dark,
 /area/station/service/chapel)
+"foO" = (
+/obj/structure/table/wood,
+/obj/item/storage/dice,
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "foP" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on/layer4{
 	dir = 8
@@ -19447,6 +19476,12 @@
 /obj/effect/landmark/event_spawn,
 /turf/open/floor/iron/showroomfloor,
 /area/station/security/medical)
+"guf" = (
+/obj/structure/chair/sofa/left/brown{
+	dir = 4
+	},
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "guu" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -25935,6 +25970,10 @@
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /turf/open/floor/grass,
 /area/station/medical/psychology)
+"iud" = (
+/obj/machinery/light/directional/east,
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "iug" = (
 /obj/machinery/atmospherics/components/unary/outlet_injector/monitored/plasma_input{
 	dir = 1
@@ -33334,6 +33373,10 @@
 	},
 /turf/open/floor/iron,
 /area/station/commons/fitness/recreation)
+"kSW" = (
+/obj/structure/table/wood,
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "kTa" = (
 /obj/effect/turf_decal/siding/wood/corner,
 /obj/effect/turf_decal/siding/wood/corner{
@@ -33505,6 +33548,14 @@
 /obj/effect/mapping_helpers/burnt_floor,
 /turf/open/floor/plating,
 /area/station/maintenance/starboard)
+"kVp" = (
+/obj/structure/table/wood,
+/obj/machinery/chem_dispenser/drinks/beer{
+	dir = 1
+	},
+/obj/machinery/light/directional/south,
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "kVv" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -33551,6 +33602,12 @@
 /obj/effect/mapping_helpers/airlock/access/all/command/gateway,
 /turf/open/floor/iron/dark,
 /area/station/command/gateway)
+"kWd" = (
+/obj/structure/chair/sofa/middle/brown{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "kWe" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -38658,6 +38715,12 @@
 	},
 /turf/open/floor/iron/dark,
 /area/station/service/chapel)
+"mCP" = (
+/obj/machinery/door/airlock/external/glass,
+/obj/effect/mapping_helpers/airlock/cyclelink_helper,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "mCT" = (
 /obj/machinery/light/floor,
 /turf/open/floor/engine/co2,
@@ -41393,6 +41456,12 @@
 	},
 /turf/open/floor/iron/showroomfloor,
 /area/station/command/heads_quarters/rd)
+"nzC" = (
+/obj/structure/chair/sofa/middle/brown{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "nzD" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/effect/decal/cleanable/dirt,
@@ -42538,6 +42607,10 @@
 /obj/effect/mapping_helpers/broken_floor,
 /turf/open/floor/wood,
 /area/station/maintenance/starboard/fore)
+"nUJ" = (
+/obj/machinery/light/directional/south,
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "nUZ" = (
 /obj/structure/reagent_dispensers/fueltank,
 /obj/effect/turf_decal/delivery,
@@ -49056,6 +49129,10 @@
 	},
 /turf/open/floor/iron/dark,
 /area/station/service/kitchen)
+"qeW" = (
+/obj/machinery/vending/dorms,
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "qeX" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
 /obj/effect/decal/cleanable/dirt,
@@ -53343,6 +53420,12 @@
 	},
 /turf/open/floor/iron,
 /area/station/command/bridge)
+"rzL" = (
+/obj/structure/chair/sofa/corner/brown{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "rzR" = (
 /obj/effect/turf_decal/stripes/line,
 /obj/effect/turf_decal/stripes/corner{
@@ -54393,6 +54476,9 @@
 	},
 /turf/open/floor/iron,
 /area/station/hallway/primary/aft)
+"rRB" = (
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "rRC" = (
 /obj/machinery/recharge_station,
 /obj/effect/turf_decal/bot,
@@ -63601,6 +63687,10 @@
 /obj/effect/turf_decal/tile/red,
 /turf/open/floor/iron,
 /area/station/engineering/main)
+"uMy" = (
+/obj/effect/spawner/structure/window/reinforced,
+/turf/open/floor/plating,
+/area/ruin/powered/cozycabin)
 "uMD" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -65389,6 +65479,13 @@
 /obj/structure/cable,
 /turf/open/floor/iron/dark,
 /area/station/science/xenobiology)
+"vsp" = (
+/obj/structure/table/wood,
+/obj/machinery/chem_dispenser/drinks{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "vsq" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/machinery/atmospherics/pipe/smart/manifold4w/supply/hidden/layer4,
@@ -68710,6 +68807,12 @@
 /obj/effect/turf_decal/bot,
 /turf/open/floor/plating,
 /area/station/maintenance/port/greater)
+"wow" = (
+/obj/structure/chair/sofa/corner/brown{
+	dir = 1
+	},
+/turf/open/floor/wood,
+/area/ruin/powered/cozycabin)
 "woz" = (
 /obj/structure/railing{
 	dir = 9
@@ -70731,6 +70834,9 @@
 	},
 /turf/open/floor/iron,
 /area/station/hallway/primary/central/fore)
+"wWr" = (
+/turf/closed/wall,
+/area/ruin/powered/cozycabin)
 "wWB" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 1
@@ -83537,8 +83643,8 @@ aaa
 aaa
 aaa
 aaa
-aaa
-aeu
+qJs
+jyr
 aeu
 aeu
 aeu
@@ -83794,7 +83900,7 @@ aaa
 aaa
 aaa
 aaa
-aaa
+acK
 aeu
 aeu
 aeu
@@ -84051,7 +84157,7 @@ aaa
 aaa
 aaa
 aaa
-aaa
+acK
 aeu
 aeu
 aeu
@@ -84307,13 +84413,13 @@ aaa
 aaa
 aaa
 aaa
-aaa
-aeu
-aeu
-aeu
-aeu
-aeu
-aeu
+wWr
+wWr
+wWr
+wWr
+wWr
+wWr
+wWr
 aeu
 aeu
 aeu
@@ -84564,13 +84670,13 @@ aaa
 aaa
 aaa
 aaa
-qJs
-jyr
-aeu
-aeu
-aeu
-aeu
-aeu
+mCP
+rRB
+feC
+rRB
+rRB
+bvS
+wWr
 aeu
 aeu
 aeu
@@ -84821,13 +84927,13 @@ aaa
 aaa
 aaa
 aaa
-aaa
-aeu
-aeu
-aeu
-aeu
-aeu
-aeu
+uMy
+uMy
+uMy
+rRB
+rRB
+vsp
+wWr
 aeu
 aeu
 aeu
@@ -85078,13 +85184,13 @@ aaa
 aaa
 aaa
 aaa
-aaa
-aaa
-aeu
-aeu
-aeu
-aeu
-aeu
+uMy
+rRB
+rRB
+rRB
+rRB
+kVp
+wWr
 aeu
 aeu
 aeu
@@ -85335,13 +85441,13 @@ aaa
 aaa
 aaa
 aaa
-aaa
-aeu
-aeu
-aeu
-aeu
-aeu
-aeu
+uMy
+guf
+eIL
+wow
+rRB
+kSW
+wWr
 aeu
 aeu
 aeu
@@ -85592,13 +85698,13 @@ aaa
 aaa
 aaa
 aaa
-aaa
-aeu
-aeu
-aeu
-aeu
-aeu
-aeu
+uMy
+foO
+kSW
+nzC
+rRB
+rRB
+wWr
 aeu
 aeu
 aeu
@@ -85849,13 +85955,13 @@ aaa
 aaa
 aaa
 aaa
-aaa
-aeu
-aeu
-aeu
-aeu
-aeu
-aeu
+uMy
+kSW
+kSW
+nzC
+rRB
+rRB
+wWr
 aeu
 aeu
 aeu
@@ -86106,13 +86212,13 @@ aaa
 aaa
 aaa
 aaa
-aaa
-aeu
-aeu
-aeu
-aeu
-aeu
-aeu
+uMy
+kSW
+kSW
+nzC
+rRB
+rRB
+wWr
 aeu
 aeu
 aeu
@@ -86363,13 +86469,13 @@ aaa
 aaa
 aaa
 aaa
-aeu
-aeu
-aeu
-aeu
-aeu
-aeu
-aeu
+uMy
+coa
+kWd
+rzL
+rRB
+nUJ
+wWr
 aeu
 aeu
 aeu
@@ -86620,13 +86726,13 @@ aaa
 aaa
 aaa
 aaa
-aeu
-aeu
-aeu
-aeu
-aeu
-aeu
-aeu
+uMy
+rRB
+iud
+rRB
+rRB
+qeW
+wWr
 aeu
 aeu
 aeu
@@ -86877,13 +86983,13 @@ aaa
 aaa
 aaa
 aeu
-aeu
-aeu
-aeu
-aeu
-aeu
-aeu
-aeu
+wWr
+wWr
+wWr
+wWr
+wWr
+wWr
+wWr
 aeu
 aeu
 aeu
